@@ -1,7 +1,7 @@
 - Hi, I’m Artur Bać
 
 - 👀 I’m interested in modern C++ programing, physics, civil enginering.
-- 🌱 I’m currently finding better ways of coding with new possibilities that C++17 and C++20 gives, so personaly I'm engaged in my projects fixed_math and stralgo
+- 🌱 I’m currently finding better ways of coding with new possibilities that C++17 and C++20 gives
 - 📫 How to reach me ... mail to ebasoft at ebasoft.com.pl
 
 <!---
