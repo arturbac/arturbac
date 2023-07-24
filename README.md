@@ -1,7 +1,7 @@
 - Hi, I’m Artur Bać
 
 - 👀 I’m interested in modern C++ programing, physics, civil enginering.
-- 🌱 I’m currently finding better ways of coding with new possibilities that C++17 and C++20 gives
+- 🌱 I’m currently finding better ways of coding with new possibilities that C++20 and up gives
 - 📫 How to reach me ... mail to ebasoft at ebasoft.com.pl
 
 <!---
