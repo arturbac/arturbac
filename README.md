@@ -1,4 +1,4 @@
-# Welcome! I'm Artur Bać 👋
+# Welcome! I'm Artur Bać
 
 I'm a passionate developer and thinker at the intersection of **Modern C++ Programming**, and **Civil Engineering**. With each line of code, I seek not just to solve problems but to explore the potential of what programming can achieve in these fields.
 
