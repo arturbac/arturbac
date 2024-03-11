@@ -10,5 +10,5 @@ I'm a passionate developer and thinker at the intersection of **Modern C++ Progr
 
 ## Connect with Me
 
-- 📬 **Reach Out**: Whether it's a project collaboration, a question, or simply to exchange ideas, I'm all ears. You can email me at: ebasoft at ebasoft.com.pl.
+- 📬 **Reach Out**: Whether it's a project collaboration, a question, or simply to exchange ideas, I'm all ears. You can email me at: artur at ebasoft.com.pl.
 
